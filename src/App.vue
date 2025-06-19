@@ -1,11 +1,13 @@
 <script setup>
 import { ref } from "vue";
+import { RouterLink, RouterView } from "vue-router";
+import Navbar from "@/components/Navbar.vue";
 
 const message = ref("Hello World!");
 const ngLink = ref("https://jernemies.newgrounds.com");
 </script>
 
 <template>
-    <h1 class="text-xl">{{ message }}</h1>
-    <a :href="ngLink">Jernemies on NG</a>
+    <!-- <Navbar /> -->
+    <RouterView />
 </template>

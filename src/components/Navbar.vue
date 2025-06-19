@@ -1,7 +1,9 @@
-<script setup></script>
+<script setup>
+import { RouterLink } from "vue-router";
+</script>
 
 <template>
     <nav class="navbar">
-        <router-link to="/">Home</router-link>
+        <RouterLink to="/">Home</RouterLink>
     </nav>
 </template>
