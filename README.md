@@ -1,4 +1,4 @@
-### Jere Klaavo, Aspiring game developer and a musician
+### Jernemies, Aspiring game developer and a musician
 
 <!--
 **Jernemies/Jernemies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
